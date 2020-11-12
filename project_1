@@ -1,0 +1,7 @@
+a=int(input("Enter the Number_1")
+b=int(input("Enter the Number_2")
+if(a>b):
+     c=a-b
+else:
+    c=b-a
+print(c)
